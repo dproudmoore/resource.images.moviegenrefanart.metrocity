@@ -7,6 +7,8 @@
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Movie Genre Fanart Pack - Metrocity</summary>
 		<description lang="en">Photographic style movie genre fanart backgrounds.</description>
+		<license>Creative Commons Attribution-Share Alike 3.0</license>
+		<source>https://github.com/dproudmoore/resource.images.moviegenrefanart.metrocity</source>
 		<platform>all</platform>
 		<assets>
 			<icon>icon.png</icon>
